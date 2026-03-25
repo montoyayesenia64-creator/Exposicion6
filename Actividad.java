@@ -5,7 +5,7 @@
 import javax.swing.*;
 /**
  *
- * @author INGRESE SU NOMBRE
+ * @author Yesenia Montoya
  */
 public class Actividad {
     public static void main(String args[])
